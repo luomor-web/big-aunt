@@ -34,8 +34,8 @@ Page({
   },
   onShareAppMessage: function() {
     return {
-      title: '',
-      path: '',
+      title: '呵护Nana',
+      path: 'pages/calendar_tab/index',
     };
   }
 });
